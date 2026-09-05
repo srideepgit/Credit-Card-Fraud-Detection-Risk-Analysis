@@ -661,7 +661,7 @@ The `V1–V28` variables are anonymized features from the source dataset, so the
 
 ### 🔗 GitHub Repository
 
-[Financial Transaction Risk Analysis & Credit Card Fraud Detection](https://github.com/Analysts001/Financial-Transaction-Risk-Analysis-Credit-Card-Fraud-Detection-project)
+[Financial Transaction Risk Analysis & Credit Card Fraud Detection](https://github.com/srideepgit/Credit-Card-Fraud-Detection-Risk-Analysis.git)
 
 ### 📊 Dataset
 
